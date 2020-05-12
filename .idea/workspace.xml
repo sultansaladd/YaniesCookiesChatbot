@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d9ac50a-ccf4-4d98-a80e-4546cc521f47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Yaniesbot3" />
+  </component>
+  <component name="ProjectId" id="1bVaPg5zwVJIw5UuAHqmOuAVOtn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ChatbotP3" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Yaniesbot3" type="Python.AppEngineServer" factoryName="App Engine server">
+      <module name="Yaniesbot3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="host" value="127.0.0.1" />
+      <option name="browserUrl" value="" />
+      <option name="additionalOptions" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d9ac50a-ccf4-4d98-a80e-4546cc521f47" name="Default Changelist" comment="" />
+      <created>1588719691273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588719691273</updated>
+      <workItem from="1588719719673" duration="1496000" />
+      <workItem from="1588830421587" duration="8732000" />
+      <workItem from="1588879109115" duration="5500000" />
+      <workItem from="1589225466609" duration="6227000" />
+      <workItem from="1589260427729" duration="2981000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="133" y="0" key="#Inspections" timestamp="1589258143560">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="133" y="0" key="#Inspections/0.0.1280.720@0.0.1280.720" timestamp="1589258143560" />
+    <state x="133" y="0" key="#Intentions" timestamp="1588839137367">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="133" y="0" key="#Intentions/0.0.1280.720@0.0.1280.720" timestamp="1588839137367" />
+    <state x="371" y="59" key="FileChooserDialogImpl" timestamp="1589287697200">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="59" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1589287697200" />
+    <state width="1227" height="163" key="GridCell.Tab.0.bottom" timestamp="1588873087670">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1227" height="163" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1588873087670" />
+    <state width="1227" height="163" key="GridCell.Tab.0.center" timestamp="1588873087670">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1227" height="163" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1588873087670" />
+    <state width="1227" height="163" key="GridCell.Tab.0.left" timestamp="1588873087670">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1227" height="163" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1588873087670" />
+    <state width="1227" height="163" key="GridCell.Tab.0.right" timestamp="1588873087670">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1227" height="163" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1588873087670" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Yaniesbot3$Yaniesbot3.coverage" NAME="Yaniesbot3 Coverage Results" MODIFIED="1588837524169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
