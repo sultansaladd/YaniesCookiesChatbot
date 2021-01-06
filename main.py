@@ -14,7 +14,7 @@ scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/au
          'https://www.googleapis.com/auth/drive.file', 'https://www.googleapis.com/auth/drive']
 
 creds = ServiceAccountCredentials.from_json_keyfile_name('creds.json', scope)
-access_token = 'EAAkc0ZCgiBl8BAAfzpD3IHVJr624w7aTb76rhptu1x5zEZC4EOnifQMjoXsgMm3RsTGT068A4bY38sDOVL05xFZCgyYwZBf75R6xW6UaWid5MH5H2XWYB1mQD5x0QUgzak4LfYXDgOl8V5CNzNZBCvQywDZAQVg0W8NR77AMDlaxgbJ0wBwRX6'
+access_token = ''
 logging.basicConfig(level=logging.INFO)
 
 
